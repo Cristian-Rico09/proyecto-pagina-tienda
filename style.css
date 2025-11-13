@@ -145,7 +145,7 @@ body {
   color: #fff;
 }
 .btn-buy{
- background-color: var(--primary-color);
+  background-color: var(--primary-color);
   color: #1e1e1e;
   border: none;
   padding: 0.5rem 1rem;
